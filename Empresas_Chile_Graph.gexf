@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-04-03">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="nombre_e" title="nombre_e" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="AX">
+        <attvalues>
+          <attvalue for="nombre_e" value="INVERCAP"></attvalue>
+        </attvalues>
+        <viz:size value="22.727272"></viz:size>
+        <viz:position x="-234.07188" y="1.7324722"></viz:position>
+        <viz:color r="137" g="113" b="177"></viz:color>
+      </node>
+      <node id="BH">
+        <attvalues>
+          <attvalue for="nombre_e" value="NITRATOS"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="-421.22638" y="98.05892"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="BI">
+        <attvalues>
+          <attvalue for="nombre_e" value="NORTEGRANDE"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="-535.5517" y="202.8402"></viz:position>
+        <viz:color r="139" g="137" b="191"></viz:color>
+      </node>
+      <node id="BJ">
+        <attvalues>
+          <attvalue for="nombre_e" value="OROBLANCO"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="-280.6275" y="161.30553"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="CA">
+        <attvalues>
+          <attvalue for="nombre_e" value="SQM"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-120.17684" y="130.5473"></viz:position>
+        <viz:color r="129" g="15" b="124"></viz:color>
+      </node>
+      <node id="CC">
+        <attvalues>
+          <attvalue for="nombre_e" value="VAPORES"></attvalue>
+        </attvalues>
+        <viz:size value="24.545456"></viz:size>
+        <viz:position x="115.76393" y="458.59067"></viz:position>
+        <viz:color r="135" g="88" b="164"></viz:color>
+      </node>
+      <node id="Y">
+        <attvalues>
+          <attvalue for="nombre_e" value="CONCHATORO"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="-184.36636" y="281.4664"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="CF">
+        <attvalues>
+          <attvalue for="nombre_e" value="VSPT"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="-21.725164" y="538.41675"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="BQ">
+        <attvalues>
+          <attvalue for="nombre_e" value="SMSAAM"></attvalue>
+        </attvalues>
+        <viz:size value="22.727272"></viz:size>
+        <viz:position x="292.3489" y="462.1645"></viz:position>
+        <viz:color r="137" g="113" b="177"></viz:color>
+      </node>
+      <node id="Q">
+        <attvalues>
+          <attvalue for="nombre_e" value="CCU"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="-207.494" y="586.1074"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="AM">
+        <attvalues>
+          <attvalue for="nombre_e" value="FALABELLA"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="136.00156" y="207.3464"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="BO">
+        <attvalues>
+          <attvalue for="nombre_e" value="QUIÑENCO"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="-19.671495" y="369.84412"></viz:position>
+        <viz:color r="139" g="137" b="191"></viz:color>
+      </node>
+      <node id="AC">
+        <attvalues>
+          <attvalue for="nombre_e" value="EISA"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="205.61644" y="336.7699"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="BT">
+        <attvalues>
+          <attvalue for="nombre_e" value="SANTANDER"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="479.48767" y="-451.05997"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="M">
+        <attvalues>
+          <attvalue for="nombre_e" value="BESALCO"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="570.20166" y="-301.49548"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="E">
+        <attvalues>
+          <attvalue for="nombre_e" value="ANDINA"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="214.41264" y="-366.40823"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="AL">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENTEL"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="-133.72453" y="-163.36285"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="BD">
+        <attvalues>
+          <attvalue for="nombre_e" value="MASISA"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-410.97522" y="-516.3595"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="V">
+        <attvalues>
+          <attvalue for="nombre_e" value="CMPC"></attvalue>
+        </attvalues>
+        <viz:size value="22.727272"></viz:size>
+        <viz:position x="21.025414" y="-178.3592"></viz:position>
+        <viz:color r="137" g="113" b="177"></viz:color>
+      </node>
+      <node id="AK">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENJOY"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="-299.59125" y="-425.6477"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="AB">
+        <attvalues>
+          <attvalue for="nombre_e" value="EDELPA"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-229.2986" y="-573.0476"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="D">
+        <attvalues>
+          <attvalue for="nombre_e" value="ALMENDR"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="68.20082" y="-327.9991"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="AF">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENAEX"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-377.9621" y="-39.886326"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="AS">
+        <attvalues>
+          <attvalue for="nombre_e" value="HF"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-466.27106" y="-348.11023"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="CE">
+        <attvalues>
+          <attvalue for="nombre_e" value="VOLCAN"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="201.59215" y="-87.51485"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="CD">
+        <attvalues>
+          <attvalue for="nombre_e" value="VENTANAS"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-519.97314" y="-75.297844"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="T">
+        <attvalues>
+          <attvalue for="nombre_e" value="CINTAC"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-90.98641" y="-23.594269"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="P">
+        <attvalues>
+          <attvalue for="nombre_e" value="CAP"></attvalue>
+        </attvalues>
+        <viz:size value="19.090908"></viz:size>
+        <viz:position x="63.89558" y="-33.889473"></viz:position>
+        <viz:color r="148" g="158" b="202"></viz:color>
+      </node>
+      <node id="BV">
+        <attvalues>
+          <attvalue for="nombre_e" value="SK"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="-278.86102" y="-146.10939"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="AN">
+        <attvalues>
+          <attvalue for="nombre_e" value="FORUS"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="347.97162" y="322.10727"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="AR">
+        <attvalues>
+          <attvalue for="nombre_e" value="HITES"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="458.07532" y="-12.792118"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="AP">
+        <attvalues>
+          <attvalue for="nombre_e" value="GEN"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-464.04996" y="333.71024"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BA">
+        <attvalues>
+          <attvalue for="nombre_e" value="LAS CONDES"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-204.47078" y="-318.609"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="AT">
+        <attvalues>
+          <attvalue for="nombre_e" value="IAM"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="-557.543" y="-234.28726"></viz:position>
+        <viz:color r="139" g="137" b="191"></viz:color>
+      </node>
+      <node id="AO">
+        <attvalues>
+          <attvalue for="nombre_e" value="FOSFOROS"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-311.21478" y="440.51898"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BL">
+        <attvalues>
+          <attvalue for="nombre_e" value="PAZ"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="384.78714" y="-131.98082"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="BY">
+        <attvalues>
+          <attvalue for="nombre_e" value="SONDA"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="317.33777" y="-5.4252825"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="C">
+        <attvalues>
+          <attvalue for="nombre_e" value="AGUNSA"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-324.31308" y="304.54852"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="AH">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENELCHILE"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="-342.61533" y="-285.85474"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="W">
+        <attvalues>
+          <attvalue for="nombre_e" value="COLBUN"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="162.41089" y="-223.72952"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="S">
+        <attvalues>
+          <attvalue for="nombre_e" value="CENCOSUD"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="650.14453" y="-191.25758"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="AV">
+        <attvalues>
+          <attvalue for="nombre_e" value="INDISA"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="419.07727" y="-313.03937"></viz:position>
+        <viz:color r="139" g="137" b="191"></viz:color>
+      </node>
+      <node id="BS">
+        <attvalues>
+          <attvalue for="nombre_e" value="SALMOCAM"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-25.519833" y="-569.08795"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BR">
+        <attvalues>
+          <attvalue for="nombre_e" value="SALFACORP"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-160.30661" y="-453.26804"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BU">
+        <attvalues>
+          <attvalue for="nombre_e" value="SECURITY"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-62.566193" y="-302.81256"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BP">
+        <attvalues>
+          <attvalue for="nombre_e" value="RIPLEY"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="40.794468" y="103.18823"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="AZ">
+        <attvalues>
+          <attvalue for="nombre_e" value="LA POLAR"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="203.31226" y="587.68195"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="CG">
+        <attvalues>
+          <attvalue for="nombre_e" value="WATTS"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-27.862324" y="-431.3169"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BE">
+        <attvalues>
+          <attvalue for="nombre_e" value="MOLLER"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="518.45483" y="-161.62543"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BM">
+        <attvalues>
+          <attvalue for="nombre_e" value="MALLPLAZA"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="395.96872" y="110.258354"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="BB">
+        <attvalues>
+          <attvalue for="nombre_e" value="LTM"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="-0.09218788" y="230.46075"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="BF">
+        <attvalues>
+          <attvalue for="nombre_e" value="MOLYMET"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-419.79666" y="-172.51122"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="Z">
+        <attvalues>
+          <attvalue for="nombre_e" value="COPEC"></attvalue>
+        </attvalues>
+        <viz:size value="17.272728"></viz:size>
+        <viz:position x="189.44872" y="69.13518"></viz:position>
+        <viz:color r="166" g="176" b="212"></viz:color>
+      </node>
+      <node id="AD">
+        <attvalues>
+          <attvalue for="nombre_e" value="EMBONOR"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="73.70061" y="614.4456"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="BW">
+        <attvalues>
+          <attvalue for="nombre_e" value="SMU"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="538.12933" y="101.381744"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="BG">
+        <attvalues>
+          <attvalue for="nombre_e" value="MULTIFOODS"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="596.2029" y="227.45064"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="BC">
+        <attvalues>
+          <attvalue for="nombre_e" value="MANQUEHUE"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="108.30889" y="-454.82098"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="O">
+        <attvalues>
+          <attvalue for="nombre_e" value="CAMANCHACA"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="107.04076" y="-596.74884"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="BK">
+        <attvalues>
+          <attvalue for="nombre_e" value="PARAUCO"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="231.15755" y="-520.92584"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="AA">
+        <attvalues>
+          <attvalue for="nombre_e" value="CRISTALES"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="471.89987" y="389.9382"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="AJ">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENGIE (EX ECL)"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="-653.7904" y="-101.86351"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="BX">
+        <attvalues>
+          <attvalue for="nombre_e" value="SOCOVESA"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="-125.92086" y="-659.3037"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="L">
+        <attvalues>
+          <attvalue for="nombre_e" value="BCI"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="458.57135" y="235.07004"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="F">
+        <attvalues>
+          <attvalue for="nombre_e" value="ANTARCHILE"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="283.47366" y="193.26794"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="A">
+        <attvalues>
+          <attvalue for="nombre_e" value="AESGENER"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="335.72803" y="-436.8776"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="B">
+        <attvalues>
+          <attvalue for="nombre_e" value="AGUAS"></attvalue>
+        </attvalues>
+        <viz:size value="13.636364"></viz:size>
+        <viz:position x="-560.5771" y="56.37077"></viz:position>
+        <viz:color r="201" g="212" b="231"></viz:color>
+      </node>
+      <node id="H">
+        <attvalues>
+          <attvalue for="nombre_e" value="AUSTRALIS"></attvalue>
+        </attvalues>
+        <viz:size value="11.818182"></viz:size>
+        <viz:position x="297.15524" y="-241.30766"></viz:position>
+        <viz:color r="219" g="230" b="241"></viz:color>
+      </node>
+      <node id="CH">
+        <attvalues>
+          <attvalue for="nombre_e" value="ZOFRI"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1149.5842" y="-53.13602"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AW">
+        <attvalues>
+          <attvalue for="nombre_e" value="INGEVEC"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1165.3431" y="65.72272"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AU">
+        <attvalues>
+          <attvalue for="nombre_e" value="ILC"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="766.9421" y="690.0596"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AY">
+        <attvalues>
+          <attvalue for="nombre_e" value="ITAUCORP"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="597.5574" y="-35.97547"></viz:position>
+        <viz:color r="184" g="194" b="222"></viz:color>
+      </node>
+      <node id="CB">
+        <attvalues>
+          <attvalue for="nombre_e" value="TRICOT"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="457.10675" y="979.289"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="BZ">
+        <attvalues>
+          <attvalue for="nombre_e" value="SOQUICOM"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1066.3815" y="-311.67966"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="N">
+        <attvalues>
+          <attvalue for="nombre_e" value="BLUMAR"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1118.0956" y="-263.28903"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="I">
+        <attvalues>
+          <attvalue for="nombre_e" value="CHILE"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="-167.676" y="440.02896"></viz:position>
+        <viz:color r="139" g="137" b="191"></viz:color>
+      </node>
+      <node id="G">
+        <attvalues>
+          <attvalue for="nombre_e" value="AQUACHILE"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-59.269363" y="-1061.5314"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AQ">
+        <attvalues>
+          <attvalue for="nombre_e" value="HABITAT"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="691.93225" y="-783.1647"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AE">
+        <attvalues>
+          <attvalue for="nombre_e" value="CAROZZI"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="983.24493" y="298.90652"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AI">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENELGXCH"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="920.2214" y="-531.4455"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="AG">
+        <attvalues>
+          <attvalue for="nombre_e" value="ENELAM"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-968.50946" y="-619.2387"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="685" source="AX" target="P" weight="3.0"></edge>
+      <edge id="686" source="AX" target="AL"></edge>
+      <edge id="687" source="AX" target="BI"></edge>
+      <edge id="688" source="AX" target="CA"></edge>
+      <edge id="689" source="AX" target="BH"></edge>
+      <edge id="690" source="AX" target="BJ"></edge>
+      <edge id="691" source="AX" target="T"></edge>
+      <edge id="692" source="BH" target="BI" weight="3.0"></edge>
+      <edge id="693" source="BH" target="CA"></edge>
+      <edge id="694" source="BH" target="BJ" weight="3.0"></edge>
+      <edge id="695" source="BH" target="Y"></edge>
+      <edge id="696" source="BI" target="BJ" weight="3.0"></edge>
+      <edge id="697" source="BI" target="CA"></edge>
+      <edge id="698" source="BI" target="Y"></edge>
+      <edge id="699" source="BI" target="C"></edge>
+      <edge id="700" source="BJ" target="CA"></edge>
+      <edge id="701" source="BJ" target="Y"></edge>
+      <edge id="702" source="CA" target="CC"></edge>
+      <edge id="703" source="CA" target="BO"></edge>
+      <edge id="704" source="CA" target="E"></edge>
+      <edge id="705" source="CA" target="BP"></edge>
+      <edge id="706" source="CA" target="AF"></edge>
+      <edge id="707" source="CA" target="CE"></edge>
+      <edge id="708" source="CA" target="AM"></edge>
+      <edge id="709" source="CC" target="CF"></edge>
+      <edge id="710" source="CC" target="BO" weight="3.0"></edge>
+      <edge id="711" source="CC" target="AZ"></edge>
+      <edge id="712" source="CC" target="I" weight="3.0"></edge>
+      <edge id="713" source="CC" target="Q" weight="2.0"></edge>
+      <edge id="714" source="CC" target="BQ"></edge>
+      <edge id="715" source="CC" target="AM"></edge>
+      <edge id="716" source="Y" target="F"></edge>
+      <edge id="717" source="CF" target="BQ"></edge>
+      <edge id="718" source="CF" target="Q" weight="4.0"></edge>
+      <edge id="719" source="CF" target="I" weight="2.0"></edge>
+      <edge id="720" source="BQ" target="BO"></edge>
+      <edge id="721" source="BQ" target="AC"></edge>
+      <edge id="722" source="BQ" target="I" weight="2.0"></edge>
+      <edge id="723" source="BQ" target="Q"></edge>
+      <edge id="724" source="BQ" target="AN"></edge>
+      <edge id="725" source="Q" target="BO"></edge>
+      <edge id="726" source="Q" target="I" weight="3.0"></edge>
+      <edge id="727" source="AM" target="BO"></edge>
+      <edge id="728" source="AM" target="BM" weight="2.0"></edge>
+      <edge id="729" source="AM" target="BB"></edge>
+      <edge id="730" source="BO" target="I" weight="3.0"></edge>
+      <edge id="731" source="AC" target="P"></edge>
+      <edge id="732" source="AC" target="AN"></edge>
+      <edge id="733" source="BT" target="E"></edge>
+      <edge id="734" source="BT" target="M"></edge>
+      <edge id="735" source="M" target="E"></edge>
+      <edge id="736" source="M" target="AV"></edge>
+      <edge id="737" source="E" target="A"></edge>
+      <edge id="738" source="E" target="BK"></edge>
+      <edge id="739" source="AL" target="D"></edge>
+      <edge id="740" source="AL" target="P"></edge>
+      <edge id="741" source="AL" target="V" weight="2.0"></edge>
+      <edge id="742" source="AL" target="CE"></edge>
+      <edge id="743" source="BD" target="AB"></edge>
+      <edge id="744" source="BD" target="AK"></edge>
+      <edge id="745" source="V" target="H"></edge>
+      <edge id="746" source="V" target="D"></edge>
+      <edge id="747" source="V" target="CE"></edge>
+      <edge id="748" source="V" target="BU"></edge>
+      <edge id="749" source="V" target="CG"></edge>
+      <edge id="750" source="V" target="W"></edge>
+      <edge id="751" source="AK" target="AB"></edge>
+      <edge id="752" source="AK" target="AT"></edge>
+      <edge id="753" source="AK" target="AS"></edge>
+      <edge id="754" source="AB" target="BK"></edge>
+      <edge id="755" source="AF" target="BV" weight="3.0"></edge>
+      <edge id="756" source="AF" target="CD" weight="2.0"></edge>
+      <edge id="757" source="AS" target="AT"></edge>
+      <edge id="758" source="CE" target="W"></edge>
+      <edge id="759" source="CD" target="BV"></edge>
+      <edge id="760" source="CD" target="AJ"></edge>
+      <edge id="761" source="T" target="P"></edge>
+      <edge id="762" source="P" target="AH"></edge>
+      <edge id="763" source="BV" target="BU"></edge>
+      <edge id="764" source="BV" target="BF"></edge>
+      <edge id="765" source="AN" target="AA"></edge>
+      <edge id="766" source="AR" target="BL"></edge>
+      <edge id="767" source="AR" target="BY"></edge>
+      <edge id="768" source="AP" target="AO"></edge>
+      <edge id="769" source="AP" target="C" weight="4.0"></edge>
+      <edge id="770" source="BA" target="AT"></edge>
+      <edge id="771" source="BA" target="BR"></edge>
+      <edge id="772" source="BA" target="AH"></edge>
+      <edge id="773" source="AT" target="BF"></edge>
+      <edge id="774" source="AT" target="AH"></edge>
+      <edge id="775" source="AT" target="B"></edge>
+      <edge id="776" source="AO" target="C"></edge>
+      <edge id="777" source="BL" target="BY"></edge>
+      <edge id="778" source="BL" target="Z"></edge>
+      <edge id="779" source="BY" target="AV"></edge>
+      <edge id="780" source="W" target="Z"></edge>
+      <edge id="781" source="W" target="AV"></edge>
+      <edge id="782" source="S" target="AV"></edge>
+      <edge id="783" source="AV" target="BE"></edge>
+      <edge id="784" source="AV" target="AY"></edge>
+      <edge id="785" source="BS" target="O" weight="2.0"></edge>
+      <edge id="786" source="BS" target="BR"></edge>
+      <edge id="787" source="AZ" target="AD"></edge>
+      <edge id="788" source="CG" target="BC"></edge>
+      <edge id="789" source="BE" target="AY"></edge>
+      <edge id="790" source="BM" target="L" weight="2.0"></edge>
+      <edge id="791" source="Z" target="F" weight="4.0"></edge>
+      <edge id="792" source="Z" target="L"></edge>
+      <edge id="793" source="BW" target="BG"></edge>
+      <edge id="794" source="BW" target="AA" weight="2.0"></edge>
+      <edge id="795" source="BW" target="AY"></edge>
+      <edge id="796" source="O" target="BK"></edge>
+      <edge id="797" source="O" target="BX"></edge>
+      <edge id="798" source="L" target="F"></edge>
+      <edge id="799" source="B" target="I"></edge>
+    </edges>
+  </graph>
+</gexf>
